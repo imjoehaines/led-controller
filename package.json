@@ -1,0 +1,15 @@
+{
+  "scripts": {
+  	"test": "standard | snazzy"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "delay": "^2.0.0",
+    "express": "^4.16.3",
+    "pigpio": "^1.0.0"
+  },
+  "devDependencies": {
+    "snazzy": "^7.1.1",
+    "standard": "^11.0.1"
+  }
+}
