@@ -1,4 +1,4 @@
-# sensu-led-controller
+# Sensu LED Controller
 
 An Express based API for controlling LEDs in response to a Sensu handler, using a Raspberry Pi
 
